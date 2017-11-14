@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">The Movie Database (TMDb)</string>
+    <string name="path_url">https://developers.themoviedb.org/3/movies</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
